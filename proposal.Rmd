@@ -1,0 +1,9 @@
+---
+title: "Project Proposal"
+date: "2/6/2019"
+output: pdf_document
+---
+
+#### Authors
+Simeon Markind, George Posner, Alexandra McKeon, Monica Chaturvedi,
+Julia Marshall, Shiv Ganesh, Trace Sauter
