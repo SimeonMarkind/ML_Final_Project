@@ -7,3 +7,5 @@ output: pdf_document
 #### Authors
 Simeon Markind, George Posner, Alexandra McKeon, Monica Chaturvedi,
 Julia Marshall, Shiv Ganesh, Trace Sauter
+
+
