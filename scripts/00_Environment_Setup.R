@@ -9,7 +9,19 @@ environment<-"AWS"
 ### https://us-west-2.console.aws.amazon.com/cloudformation/home?region=us-west-2#/stack/detail?stackId=arn:aws:cloudformation:us-west-2:823476387611:stack%2Frstudio-sagemaker%2F9cc0a5f0-2cb3-11e9-b398-0a578203aa12
 
 
+
 if(environment=="AWS") {
+  #from terminal:
+  ##sudo su
+  ##yum install git
+  
+  #from rstudio shell
+  ##git clone "https://github.com/SimeonMarkind/ML_Final_Project
+  ##cd ML_Final_Project
+  ##git remote add upstream "https://github.com/SimeonMarkind/ML_Final_Project"
+  
+  
+  
   # Prepare environment using guidance from https://aws.amazon.com/blogs/machine-learning/using-r-with-amazon-sagemaker/
   
   ### Let’s create an Amazon Simple Storage Service (Amazon S3) bucket for your data. You will need the IAM role that allows Amazon SageMaker to access the bucket.
